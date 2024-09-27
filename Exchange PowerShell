@@ -1,0 +1,3 @@
+Exchange
+
+Get-Mailbox -ResultSize Unlimited -Filter "ForwardingAddress -like '*' -or ForwardingSmtpAddress -like '*'" | Select-Object DisplayName, ForwardingAddress, ForwardingSmtpAddress
