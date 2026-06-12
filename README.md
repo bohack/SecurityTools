@@ -21,3 +21,8 @@ TREVORspray is a modular password sprayer with threading, SSH proxying, loot mod
 ### OneDrive Enum ###
 OneDrive user enumeration - pentest tool to enumerate valid o365 users
 [OneDrive Enum](https://github.com/nyxgeek/onedrive_user_enum)
+
+# Diag Tools
+CMTrace.dev
+A free, zero-install log viewer for ConfigMgr, SCCM and Intune. Open massive client logs, color-code severity and chase down error codes — all 100% on your machine.
+[CMTrace Online](https://cmtrace.dev/)
